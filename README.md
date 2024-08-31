@@ -1,6 +1,6 @@
 ## RTS-SLAM
 **RTS-SLAM：A Robust Real-Time Semantic SLAM for Dynamic Scenes**
-
+- This repository is the implementation of a paper being submitted to IEEE Transactions on Industrial Electronics (IEEE TIE).
 <p align="center">
   <img src="doc/result.png" height="300"/>
   <br>
