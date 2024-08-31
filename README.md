@@ -2,7 +2,7 @@
 **RTS-SLAM：A Robust Real-Time Semantic SLAM for Dynamic Scenes**
 
 <p align="center">
-  <img src="doc/result.png" height="500"/>
+  <img src="doc/result.png" height="300"/>
   <br>
   <em>Fig 1 :resultt</em>
 </p>
@@ -39,7 +39,7 @@ Clone the repository and catkin_make:
 ## 3. Sensor Configuration
 ### 3.1 Extrinsic parameters
 <p align="center">
-  <img src="doc/sensors.png" height="500"/>
+  <img src="doc/sensors.png" height="300"/>
   <br>
   <em>Fig 2 : Sensor Configuration</em>
 </p>
