@@ -10,17 +10,17 @@
 ## 1. Prerequisites
 ### 1.1 **Ubuntu** and **ROS**YOLOv8
 **Ubuntu >= 18.04**
-ROS    >= Melodic. [ROS Installation](http://wiki.ros.org/ROS/Installation)
+ROS    >= Melodic. Follow： [ROS Installation](http://wiki.ros.org/ROS/Installation)
 ### 1.2. **PCL && Eigen && OpenCV**
-PCL    >= 1.8,   Follow [PCL Installation](http://www.pointclouds.org/downloads/linux.html).
+PCL    >= 1.8,   Follow ： [PCL Installation](http://www.pointclouds.org/downloads/linux.html).
 
-Eigen  >= 3.3.4, Follow [Eigen Installation](http://eigen.tuxfamily.org/index.php?title=Main_Page).
+Eigen  >= 3.3.4, Follow ： [Eigen Installation](http://eigen.tuxfamily.org/index.php?title=Main_Page).
 
-Opencv >= 3.2.0, Follow[OpenCV_installation](https://github.com/opencv/opencv)
+Opencv >= 3.2.0, Follow： [OpenCV_installation](https://github.com/opencv/opencv)
 ### 1.3. **livox_ros_driver**
-Follow [livox_ros_driver Installation](https://github.com/Livox-SDK/livox_ros_driver).
+Follow：  [livox_ros_driver Installation](https://github.com/Livox-SDK/livox_ros_driver).
 ### 1.4. **YOlOv8**
-YOLOV8, Follow[ultralytics](https://github.com/ultralytics/ultralytics) 
+YOLOV8, Follow： [ultralytics](https://github.com/ultralytics/ultralytics) 
 ## 2. Build
 Clone the repository and catkin_make:
 
