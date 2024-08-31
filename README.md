@@ -61,7 +61,10 @@ python transtoipccicle.py
 rosbag play example.bag
 ```
 
+### Contact
+If you have any questions, please let me know: 
+- Shuang Song {songs@stu.xmu.edu.cn}
+  
 ## 6.Acknowledgments
 
 - Thanks for FAST-LIO2(Xu, Wei, et al. FAST-LIO2: Fast Direct LiDAR-inertial Odometry), [FAST-LIO2](https://github.com/hku-mars/FAST_LIO)
-- Thanks for FAST-LIO-COLOR-MAPPING, [FAST_LIOMAPPING] (https://github.com/YWL0720/FAST-LIO-COLOR-MAPPING.git)
