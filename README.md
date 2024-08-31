@@ -4,7 +4,7 @@
 <p align="center">
   <img src="doc/result.png" height="500"/>
   <br>
-  <em>Fig 1 :Indoor Test</em>
+  <em>Fig 1 :resultt</em>
 </p>
 
 ## 1. Prerequisites
