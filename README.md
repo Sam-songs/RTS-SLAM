@@ -62,7 +62,8 @@ rosbag play example.bag
 ```
 
 ### Contact
-If you have any questions, please let me know: 
+- Dynamic object removal tests can be performed based on the example pcd file in the data folder, using the software we have reserved in the Pcd2Google-map repository. We will publish more detailed source code after acceptance of the paper and acceptance of the project.
+- If you have any questions, please let me know: 
 - Shuang Song {songs@stu.xmu.edu.cn}
   
 ## 6.Acknowledgments
